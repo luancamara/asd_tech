@@ -1,0 +1,6 @@
+framework module Pods_ASD_Tech {
+  umbrella header "Pods-ASD Tech-umbrella.h"
+
+  export *
+  module * { export * }
+}

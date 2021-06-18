@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>134691456198-1u0b6rr3t6n6ii047n0g0ng0bff67g0p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.134691456198-1u0b6rr3t6n6ii047n0g0ng0bff67g0p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAURdzUVfDB4kOx5O2eOoTk3xHnvLVpqkE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>134691456198</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.luancamara.ASD-Tech</string>
+	<key>PROJECT_ID</key>
+	<string>asd-tech</string>
+	<key>STORAGE_BUCKET</key>
+	<string>asd-tech.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:134691456198:ios:6d8f957dea92d4beca83c7</string>
+</dict>
+</plist>
